@@ -17,8 +17,8 @@
 
 		<derby.version>10.13.1.1</derby.version>
 		
-		<uid>larry_barchett</uid>
-		<pwd>M203m16b!</pwd>		
+		<uid>userName</uid>
+		<pwd>passWord</pwd>		
 	</properties>
 
 	<build>
